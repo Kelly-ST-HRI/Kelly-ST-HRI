@@ -93,7 +93,7 @@ University of Otago
  
 ### Experience and Certifications
  
-### Postdoctoral Researcher (2018/05/01-2021/07/30)
+#### Postdoctoral Researcher (2018/05/01-2021/07/30)
 
 Laboratory for Cellular Epigenomics
 
@@ -105,13 +105,15 @@ RIKEN Institute of Physical and Chemical Research
 
 Suehiro-cho 1-7-22, Tsurumi-ku, Yokohama-shi, Kanagawa-ken, Japan
 
-The Carpentries (NPO)
+#### The Carpentries (NPO)
 
 Certified Software Carpentry Instructor (2015/02-)
 
 Certified Data Carpentry Instructor (2016/01-)
 
 Founder of Software Carpentry Japanese Language Team (2017/09-)
+
+#### Certification
 
 New Zealand Restricted Driver's License (2008/08-)
 
