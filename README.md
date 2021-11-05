@@ -1,8 +1,9 @@
 # Tom Kelly
 ---------------------------------
 
-# Affiliation
-H.U. Group Holdings, Inc.
+## Affiliation
+
+### H.U. Group Holdings, Inc.
 Bioinformatician (Researcher)
 (2021/08/01-)
 Yuhara Team
@@ -17,7 +18,7 @@ SRL, Inc.
  
 Komiya-machi-51, Hachioji-shi, Tokyo-to
  
-RIKEN Institute of Physical and Chemical Research
+### RIKEN Institute of Physical and Chemical Research
  
 Visiting Scientist (2021/08/01-)
 Laboratory for Cellular Epigenomics
@@ -50,10 +51,10 @@ H.U.グループホールディングス株式会社
  
 神奈川県横浜市鶴見区末広町ー１－７－２２
 
-# Resume
-## Education
+## Resume
+### Education
  
-Doctor of Philosophy (PhD)
+#### Doctor of Philosophy (PhD)
 Enrolled: 2014/04/01
 Graduated: 2017/12/16
 Genetics teaching programme
@@ -61,22 +62,22 @@ Department of Biochemistry
 University of Otago
 710 Cumberland St, Dunedin, Otago, New Zealand
  
-Bachelor of Science with Honours (First Class)
+#### Bachelor of Science with Honours (First Class)
 Enrolled: 2013/02/04
 Graduated: 2013/12/14
 Genetics teaching programme
 Department of Biochemistry
 University of Otago
  
-Bachelor of Science
+#### Bachelor of Science
 Enrolled: 2010/01/25
 Graduated: 2012/12/15
 Major(s): Genetics, Mathematics
 University of Otago
  
-## Experience
+### Experience and Certifications
  
-Postdoctoral Researcher (2018/05/01-2021/07/30)
+### Postdoctoral Researcher (2018/05/01-2021/07/30)
 Laboratory for Cellular Epigenomics
 Division of Genomic Medicine
 Center for integrative Medical Sciences
