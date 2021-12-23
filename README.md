@@ -1,4 +1,4 @@
-# Tom Kelly
+# Tom Kelly (ケリー・トム)
 ---------------------------------
 
 ## Affiliation
