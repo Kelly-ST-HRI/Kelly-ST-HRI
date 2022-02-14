@@ -2,6 +2,13 @@ Tom Kelly
 ---------------------------------
 ケリー・トム
 
+Residence: Japan
+Nationality: New Zealand
+
+Languages: New Zealand English (native level), Japanese (conversational), Italian (beginner)
+
+Programming: R (advanced), Python, Bash, Perl, Julia, Perl, C, Rust, SQL, JavaScript, MATLAB, Wolfram, TeX
+
 ## Affiliation
 
 ### H.U. Group Holdings, Inc.
