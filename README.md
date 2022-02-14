@@ -19,6 +19,7 @@ Department of Research and Development,
 SRL, Inc.
  
 Komiya-machi-51, Hachioji-shi, Tokyo-to
+
 Fuchigami-50, Akiruno-shi, Tokyo-to
  
 ### RIKEN Institute of Physical and Chemical Research
@@ -42,6 +43,7 @@ H.U.グループホールディングス株式会社
 研究開発本部　試験開発部　バイオインフォマティクス課
  
 東京都八王子市小宮町ー５１
+
 東京都あきる野市渕上ー５0
  
 国立研究開発法人理化学研究所
