@@ -53,7 +53,29 @@ H.U.グループホールディングス株式会社
  
 神奈川県横浜市鶴見区末広町ー１－７－２２
 
-## Resume
+## Resume 
+### Experience
+ 
+#### Postdoctoral Researcher (2018/05/01-2021/07/30)
+
+Laboratory for Cellular Epigenomics
+
+Division of Genomic Medicine
+
+Center for integrative Medical Sciences
+
+RIKEN Institute of Physical and Chemical Research
+
+Suehiro-cho 1-7-22, Tsurumi-ku, Yokohama-shi, Kanagawa-ken, Japan
+
+#### The Carpentries (NPO)
+
+Certified Software Carpentry Instructor (2015/02-)
+
+Certified Data Carpentry Instructor (2016/01-)
+
+Founder of Software Carpentry Japanese Language Team (2017/09-)
+
 ### Education
  
 #### Doctor of Philosophy (PhD)
@@ -91,33 +113,3 @@ Graduated: 2012/12/15
 Major(s): Genetics, Mathematics
 
 University of Otago
- 
-### Experience and Certifications
- 
-#### Postdoctoral Researcher (2018/05/01-2021/07/30)
-
-Laboratory for Cellular Epigenomics
-
-Division of Genomic Medicine
-
-Center for integrative Medical Sciences
-
-RIKEN Institute of Physical and Chemical Research
-
-Suehiro-cho 1-7-22, Tsurumi-ku, Yokohama-shi, Kanagawa-ken, Japan
-
-#### The Carpentries (NPO)
-
-Certified Software Carpentry Instructor (2015/02-)
-
-Certified Data Carpentry Instructor (2016/01-)
-
-Founder of Software Carpentry Japanese Language Team (2017/09-)
-
-#### Certification
-
-New Zealand Restricted Driver's License (2008/08-)
-
-New Zealand Full Driver's License (2017/02-)
-
-Japanese Full Driver's License (2018/05-)
